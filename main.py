@@ -10,3 +10,6 @@ in_autotests_we_trust(0, False)
 
 Aang = "O Aang é um airbender"
 print(Aang)
+
+Katara = "A Katara é uma waterbender"
+print(Katara)
